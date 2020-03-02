@@ -1,3 +1,3 @@
 # downtime adventures
 
-- [1](downtime/gob_20200303.md)
+- [2020-03-03](downtime/gob_20200303.md)
