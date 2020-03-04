@@ -1,15 +1,41 @@
-Large Lovely Weathered Chiseled Handsome Athletic
-2 Slim Dark Fair Stout Delicate Scarred
-3 Bony Worn Rough Plump Wiry Striking
-4 Short Tall Sexy Wild Elegant Stooped
-5 Cute Plain Old Young Stylish Strange
+Large
+Lovely
+Weathered
+Chiseled
+Handsome
+Athletic
+Slim
+Dark
+Fair
+Stout
+Delicate
+Scarred
+Bony
+Worn
+Rough
+Plump
+Wiry
+Striking
+Short
+Tall
+Sexy
+Wild
+Elegant
+Stooped
+Cute
+Plain
+Old
+Young
+Stylish
+Strange
 Disfigured
 Maimed
 Glasses
 Monocle
 Prosthetic
 Crippled
-Long Hair
+Long
+Hair
 Beard
 Wig
 Shorn
