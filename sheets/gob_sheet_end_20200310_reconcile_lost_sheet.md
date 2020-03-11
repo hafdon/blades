@@ -98,7 +98,7 @@ __LOAD / ASSETS__
 
 | VICE | PURVEYOR | Description | Actions |
 | --- | --- | --- | --- |
-| __weird__ | Vey | jar of spirit-soil under Shoemaker Byte's house | ... | 
+| __weird__ | Vey | jar of spirit-soil under Shoemaker Byte's house | become flesh | 
 | __stupor__ | Setarra | demon | ... | 
 | __weird__ | Salia | A spirit of the reconciled | "Take my body; push me down" |
 
@@ -149,3 +149,7 @@ __LOAD / ASSETS__
 - Something to prevent red angry spirits from attacking us
 - learn how to heal from QUellyn
 - learn to hide my own past with timelens
+- revenge on silver nails
+- revenge on my old tribe
+- setarra ritual
+- 
